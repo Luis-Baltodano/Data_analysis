@@ -20,7 +20,6 @@ Access to safe water and sanitation is a basic human need. Nontheless billions o
 <iframe title="Water_indicators_report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNGQ0OTQ1NjctMmRmNi00YzkzLWJiZmItMThiMTY4YjA0YjkzIiwidCI6ImUxMTlmY2ZmLTRmMzUtNDMzOC04MzQzLTc2ZDQ1OTg5NGI2YiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
 
 
-Data_analysis/project.md
 
 
 
