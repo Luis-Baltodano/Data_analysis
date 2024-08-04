@@ -4,11 +4,11 @@
 Civil Engineering
 
 ### Work Experience
-Project planner | Data analyst 
+Project planner | Data analyst | Product Owner
 At PlannerApp 360 since January, 2022
 
 ### Skills
-SQL | Excel | PowerBI | Tableau | Python
+SQL | Excel | PowerBI | Tableau | Python | Data analysis
 
 ## Project: Water indicators in Latin America & Caribbean
 
