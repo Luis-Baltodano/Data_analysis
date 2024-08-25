@@ -4,7 +4,7 @@
 Civil Engineering
 
 ### Work Experience
-Project planner | Data analyst | Product Owner
+Product Owner | Data analyst
 At PlannerApp 360 since January, 2022
 
 ### Skills
