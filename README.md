@@ -21,7 +21,18 @@ To see the project's details [click here](https://github.com/Luis-Baltodano/wate
 
 <iframe title="Water_indicators_report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNGQ0OTQ1NjctMmRmNi00YzkzLWJiZmItMThiMTY4YjA0YjkzIiwidCI6ImUxMTlmY2ZmLTRmMzUtNDMzOC04MzQzLTc2ZDQ1OTg5NGI2YiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
 
+## Project: Projects quotation process in 2024
 
+### Description
+The project quotation process in the construction industry involves several steps to accurately estimate the cost of a project and provide a comprehensive proposal to potential clients.
+
+This report helps the client to have an overview of the internal process, visualizing kilograms, cost and number of projects per month and the opportunity to filter this data by the bid closing, offer status and the engineer in charge of the offer. After collecting this data, we will be able to analyze the offers based on the tools used in negotiations, type of client, type of offer, and type of project. This will provide us with a better understanding of the process to allocate resources to those offers that meet the characteristics with the highest probability of success.
+
+To see the project's details click here
+
+### Dashboard
+
+<iframe title="Projects quotation" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmZkYjYzMTktYTM3ZC00M2U1LWFhYWUtZmFlMzI4Zjg3ZWI0IiwidCI6ImUxMTlmY2ZmLTRmMzUtNDMzOC04MzQzLTc2ZDQ1OTg5NGI2YiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
