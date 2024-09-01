@@ -30,7 +30,7 @@ To see the project's details [click here](https://github.com/Luis-Baltodano/wate
 ### Description
 The project quotation process in the construction industry involves several steps to accurately estimate the cost of a project and provide a comprehensive proposal to potential clients.
 
-This report helps the client to have an overview of the internal process, visualizing kilograms, cost and number of projects per month and the opportunity to filter this data by the bid closing, offer status and the engineer in charge of the offer. After collecting this data, we will be able to analyze the offers based on the tools used in negotiations, type of client, type of offer, and type of project. This will provide us with a better understanding of the process to allocate resources to those offers that meet the characteristics with the highest probability of success.
+This report helps a client dedicated to steel construction, to have an overview of the internal process, visualizing kilograms, cost and number of projects per month and the opportunity to filter this data by the bid closing, offer status and the engineer in charge of the offer. After collecting this data, we will be able to analyze the offers based on the tools used in negotiations, type of client, type of offer, and type of project. This will provide us with a better understanding of the process to allocate resources to those offers that meet the characteristics with the highest probability of success. *The data labels were removed due to confidentiality agreements.*
 
 To see the project's details [click here](https://github.com/Luis-Baltodano/Projects_Quotation)
 
