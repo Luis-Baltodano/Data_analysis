@@ -36,7 +36,7 @@ To see the project's details [click here](https://github.com/Luis-Baltodano/Proj
 
 ### Dashboard
 
-<iframe title="Projects quotation" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmZkYjYzMTktYTM3ZC00M2U1LWFhYWUtZmFlMzI4Zjg3ZWI0IiwidCI6ImUxMTlmY2ZmLTRmMzUtNDMzOC04MzQzLTc2ZDQ1OTg5NGI2YiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Projects quotation" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzQyNzVhZDctOTI3Zi00Yjc0LWEyZDgtNDQ2YjI4OGRhN2QzIiwidCI6ImUxMTlmY2ZmLTRmMzUtNDMzOC04MzQzLTc2ZDQ1OTg5NGI2YiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
